@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.YourName.AppName" version="1.0.0"   
+        xmlns="<a href="http://www.w3.org/ns/widgets">http://www.w3.org/ns/widgets</a>"
+        xmlns:gap="<a href="http://phonegap.com/ns/1.0">http://phonegap.com/ns/1.0</a>">
+    <name>VoiceInTheHead</name>
+    <description>
+        Game description.
+    </description>
+    <author email="your@email.com" href="<a href="http://your.website.com/">http://your.website.com</a>">
+        CrazyHamsteR
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="android-minSdkVersion" value="16" />
+    <preference name="android-targetSdkVersion"    value="28" />
+    <preference name="phonegap-version" value="cli-9.0.0" /> 
+    <preference name="orientation" value="default" /> 
+</widget>
