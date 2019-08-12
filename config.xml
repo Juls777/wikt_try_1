@@ -1,12 +1,12 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <widget id="com.YourName.AppName" version="1.0.0"   
-        xmlns="a href="http://www.w3.org/ns/widgets">http://www.w3.org/ns/widgets</a>"
-        xmlns:gap="<a href="http://phonegap.com/ns/1.0">http://phonegap.com/ns/1.0</a>">
+        xmlns="http://www.w3.org/ns/widgets"
+        xmlns:gap="http://phonegap.com/ns/1.0">
     <name>VoiceInTheHead</name>
     <description>
         Game description.
     </description>
-    <author email="your@email.com" href="<a href="http://your.website.com/">http://your.website.com</a>">
+    <author email="your@email.com" href="http://your.website.com/">
         CrazyHamsteR
     </author>
     <content src="index.html" />
